@@ -1,0 +1,43 @@
+[26-Mar-2017 22:47:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shwetakothari/public_html/Verified.php on line 47
+[26-Mar-2017 22:47:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shwetakothari/public_html/Verified.php on line 47
+[26-Mar-2017 22:47:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shwetakothari/public_html/Verified.php on line 47
+[26-Mar-2017 22:50:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shwetakothari/public_html/Verified.php on line 47
+[26-Mar-2017 22:51:36 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 22:52:50 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 22:56:22 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 22:56:40 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 22:57:05 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 23:05:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shwetakothari/public_html/Verified.php on line 52
+[26-Mar-2017 23:09:08 UTC] PHP Notice:  Undefined variable: Username in /home/shwetakothari/public_html/Verified.php on line 45
+[26-Mar-2017 23:09:20 UTC] PHP Warning:  filesize(): stat failed for Users.tx.txt in /home/shwetakothari/public_html/Verified.php on line 50
+[26-Mar-2017 23:09:20 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 03:54:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:54:36 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:54:36 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 03:55:30 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:55:30 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 03:56:37 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:56:37 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 03:56:37 UTC] PHP Notice:  Array to string conversion in /home/shwetakothari/public_html/Verified.php on line 68
+[04-Apr-2017 03:56:40 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:56:40 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 03:56:40 UTC] PHP Notice:  Array to string conversion in /home/shwetakothari/public_html/Verified.php on line 68
+[04-Apr-2017 03:56:50 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:56:50 UTC] PHP Notice:  Array to string conversion in /home/shwetakothari/public_html/Verified.php on line 68
+[04-Apr-2017 03:57:24 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:57:46 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:58:29 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 03:59:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:00:18 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:00:18 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 04:02:09 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:02:09 UTC] PHP Notice:  Use of undefined constant field - assumed 'field' in /home/shwetakothari/public_html/Verified.php on line 50
+[04-Apr-2017 04:03:31 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:04:11 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:04:26 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:05:46 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:05:56 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:06:41 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:09:26 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:09:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
+[04-Apr-2017 04:09:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/shwetakothari/public_html/Verified.php on line 47
